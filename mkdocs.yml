@@ -1,0 +1,3 @@
+site_name: 'Awesome Docker Website'
+theme:
+  name: 'material'
